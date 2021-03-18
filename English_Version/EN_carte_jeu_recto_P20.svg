@@ -15,7 +15,7 @@
    id="svg4404"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="carte_jeu_recto_P20.svg"
+   sodipodi:docname="EN_carte_jeu_recto_P20.svg"
    inkscape:export-filename="I:\GT_transversaux\Culture_Info\2_Partage_doc_formation\Jeu_plagiat_citation\new_cartes_jeu_plagiat_recto_1.png"
    inkscape:export-xdpi="600.02155"
    inkscape:export-ydpi="600.02155"
@@ -30,8 +30,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5715448"
-     inkscape:cx="105.82493"
-     inkscape:cy="261.44696"
+     inkscape:cx="487.27603"
+     inkscape:cy="212.81275"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -127,17 +127,22 @@
          x="23.857487"
          y="751.08514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan4578">Pour pouvoir modifier une image d'un</tspan><tspan
+         id="tspan860">To be allowed to modify an image found</tspan><tspan
          sodipodi:role="line"
          x="23.857487"
          y="769.83514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan858">article, tu dois toujours demander la</tspan><tspan
+         id="tspan845">in an article, you must always request</tspan><tspan
          sodipodi:role="line"
          x="23.857487"
          y="788.58514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan860">permission de l'auteur-e de cette image.</tspan></text>
+         id="tspan847">the permission of the author of this</tspan><tspan
+         sodipodi:role="line"
+         x="23.857487"
+         y="807.33514"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+         id="tspan849">image.</tspan></text>
     <g
        id="g4226-1"
        transform="translate(-22.566357,6.1729166)">
@@ -169,7 +174,7 @@
          x="72.673264"
          y="603.27863"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan4300-6-98">VRAI / FAUX</tspan></text>
+         id="tspan4300-6-98">TRUE / FALSE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -210,19 +215,19 @@
        y="961.30658"
        id="text5165-9-8"><tspan
          sodipodi:role="line"
-         id="tspan5167-6-0"
          x="27.8251"
          y="961.30658"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.49999952px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px">Réponse : Vrai. Selon la &quot;Loi suisse sur le droit d'auteur&quot;, une image, qui est</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.49999952px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px"
+         id="tspan870">Answer: True. According to the Swiss &quot;Federal Act on Copyright&quot;, images are</tspan><tspan
          sodipodi:role="line"
          x="27.8251"
          y="970.68158"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.49999952px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px"
-         id="tspan868">              considérée comme une &quot;œuvre&quot; au sens de la loi, ne peut être modifiée</tspan><tspan
+         id="tspan856">                    considered &quot;works&quot; as defined in the law and may not be modified</tspan><tspan
          sodipodi:role="line"
          x="27.8251"
          y="980.05658"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.49999952px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px"
-         id="tspan870">              qu’avec le consentement de l’auteur-e.</tspan></text>
+         id="tspan858">                    without prior consent of the author.</tspan></text>
   </g>
 </svg>
