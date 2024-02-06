@@ -6,7 +6,7 @@ Les fichiers fournis contiennent le matériel nécessaire pour produire des exem
 
 Ce jeu est diffusé sous licence CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0/). Pour créditer ce jeu, vous pouvez utiliser la formule suivante:
 
-"La course à la citation", CC BY-SA Bibliothèque de l'Université de Genève, 2020
+"La course à la citation", CC BY-SA Bibliothèque de l'Université de Genève, dernière mise à jour février 2024
 
 Les modifications du jeu sont autorisées, tant que les nouveaux contenus sont aussi soumis à la même licence.
 Pour cela, vous disposez des fichiers SVG éditables avec un logiciel de dessin vectoriel comme Inkscape (https://inkscape.org/fr/).
