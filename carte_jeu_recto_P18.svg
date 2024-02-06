@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="105mm"
    height="148mm"
    viewBox="-2 0 332.36222 468.47242"
    id="svg4404"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="carte_jeu_recto_P18.svg"
-   inkscape:export-filename="I:\GT_transversaux\Culture_Info\2_Partage_doc_formation\Jeu_plagiat_citation\new_cartes_jeu_plagiat_recto_1.png"
+   inkscape:export-filename="P18.pdf"
    inkscape:export-xdpi="600.02155"
    inkscape:export-ydpi="600.02155"
-   style="enable-background:new">
+   style="enable-background:new"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4406" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5715448"
-     inkscape:cx="234.94397"
-     inkscape:cy="185.08897"
+     inkscape:cx="287.29693"
+     inkscape:cy="338.20226"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,10 +43,17 @@
      inkscape:pagecheckerboard="false"
      scale-x="0.8375"
      inkscape:showpageshadow="true"
-     showborder="true">
+     showborder="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid4952" />
+       id="grid4952"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata4409">
@@ -56,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -126,43 +133,50 @@
          x="23.857487"
          y="751.08514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan4578">Tu as le droit de modifier une image sans</tspan><tspan
+         id="tspan866">Les outils de génération de texte comme</tspan><tspan
          sodipodi:role="line"
          x="23.857487"
          y="769.83514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan858">l'accord de l'auteur-e pour l'insérer dans</tspan><tspan
+         id="tspan3">ChatGPT ne peuvent être considérés</tspan><tspan
          sodipodi:role="line"
          x="23.857487"
          y="788.58514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan862">ta présentation si tu en indiques la</tspan><tspan
+         id="tspan4">comme des sources potentielles de</tspan><tspan
          sodipodi:role="line"
          x="23.857487"
          y="807.33514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-         id="tspan866">source.</tspan></text>
+         id="tspan5">plagiat dans un travail académique,</tspan><tspan
+         sodipodi:role="line"
+         x="23.857487"
+         y="826.08514"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+         id="tspan6">car ils produisent un contenu original</tspan><tspan
+         sodipodi:role="line"
+         x="23.857487"
+         y="844.83514"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+         id="tspan7">à chaque fois.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:280.672;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="27.825104"
        y="961.30664"
-       id="text5165-9-8"><tspan
-         sodipodi:role="line"
-         id="tspan5167-6-0"
+       id="text5165-9-8"
+       transform="translate(0,2.1269849e-5)"><tspan
          x="27.825104"
          y="961.30664"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'">Réponse : Faux. Selon la &quot;Loi suisse sur le droit d'auteur&quot;, une image, qui est</tspan><tspan
-         sodipodi:role="line"
+         id="tspan2"><tspan
+           style="font-weight:500;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
+           id="tspan1">Réponse : Faux. Si, dans un travail académique, on utilise un extrait produit par un
+</tspan></tspan><tspan
          x="27.825104"
-         y="970.68164"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
-         id="tspan868">              considérée comme une &quot;œuvre&quot; au sens de la loi, ne peut être modifiée</tspan><tspan
-         sodipodi:role="line"
-         x="27.825104"
-         y="980.05664"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
-         id="tspan870">              qu’avec le consentement de l’auteur-e.</tspan></text>
+         y="970.68167"
+         id="tspan11"><tspan
+           style="font-weight:500;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
+           id="tspan8">               outil de génération de texte sans le citer, on peut être accusé-e de plagiat.</tspan></tspan></text>
     <g
        id="g4226-1"
        transform="translate(-22.566357,6.1729166)">
@@ -216,17 +230,12 @@
          id="tspan5167-6-0-8"
          x="292.01239"
          y="983.91779"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.70000029px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px">P18</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.7px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px">P18</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:33.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.83750004"
+       style="font-style:normal;font-weight:normal;font-size:33.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8375"
        x="226.125"
        y="820.55023"
-       id="text4554"><tspan
-         sodipodi:role="line"
-         id="tspan4552"
-         x="226.125"
-         y="851.11328"
-         style="stroke-width:0.83750004" /></text>
+       id="text4554" />
   </g>
 </svg>

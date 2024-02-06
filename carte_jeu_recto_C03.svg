@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="105mm"
    height="148mm"
    viewBox="-2 0 332.36 468.47242"
    id="svg4404"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="carte_jeu_verso_C03.svg"
-   inkscape:export-filename="I:\GT_transversaux\Culture_Info\2_Partage_doc_formation\Jeu_plagiat_citation\new_cartes_jeu_plagiat_recto_1.png"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="carte_jeu_recto_C03.svg"
+   inkscape:export-filename="carte_jeu_recto_C03.pdf"
    inkscape:export-xdpi="600.02155"
    inkscape:export-ydpi="600.02155"
-   style="enable-background:new">
+   style="enable-background:new"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4406" />
   <sodipodi:namedview
@@ -30,10 +30,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5715448"
-     inkscape:cx="56.1383"
-     inkscape:cy="433.09462"
+     inkscape:cx="304.47748"
+     inkscape:cy="280.93377"
      inkscape:document-units="px"
-     inkscape:current-layer="g5139"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="1027"
@@ -44,10 +44,17 @@
      scale-x="0.8375"
      inkscape:showpageshadow="true"
      showborder="true"
-     viewbox-x="-2">
+     viewbox-x="-2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid4952" />
+       id="grid4952"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata4409">
@@ -57,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -127,7 +134,7 @@
          id="tspan5167-6-0"
          x="27.825104"
          y="966.3316"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'">Réponse : A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'">Réponse : B</tspan></text>
     <g
        id="g4226-1"
        transform="translate(-22.566357,6.1729166)">
@@ -170,39 +177,34 @@
          id="tspan5167-6-0-8"
          x="292.01239"
          y="983.91779"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.70000029px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px">C03</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.7px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';stroke-width:1px">C03</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:33.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.83750004"
+       style="font-style:normal;font-weight:normal;font-size:33.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8375"
        x="226.125"
        y="820.55023"
-       id="text4554"><tspan
-         sodipodi:role="line"
-         id="tspan4552"
-         x="226.125"
-         y="851.11328"
-         style="stroke-width:0.83750004" /></text>
+       id="text4554" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.72000027px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.89333338px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.72px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.893333px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.640821"
        y="577.45923"
        id="text4993"><tspan
          sodipodi:role="line"
          x="24.640821"
          y="577.45923"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40000057px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';stroke-width:0.89333338px"
-         id="tspan863">Quelle source de plagiat un logiciel de</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';stroke-width:0.893333px"
+         id="tspan881">Comment faut-il réagir aux références</tspan><tspan
          sodipodi:role="line"
          x="24.640821"
          y="594.20923"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40000057px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';stroke-width:0.89333338px"
-         id="tspan879">détection des similarités ne peut-il pas</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';stroke-width:0.893333px"
+         id="tspan2">bibliographiques fournies par un logiciel</tspan><tspan
          sodipodi:role="line"
          x="24.640821"
          y="610.95923"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40000057px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';stroke-width:0.89333338px"
-         id="tspan881">détecter ?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';stroke-width:0.893333px"
+         id="tspan3">comme ChatGPT ?</tspan></text>
     <g
        id="g5139"
        transform="matrix(0.89333339,0,0,0.89333339,-24.008332,505.78501)">
@@ -215,51 +217,80 @@
            y="210.21933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
            id="tspan4572"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-   id="tspan4179">A</tspan> Un livre imprimé</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+   id="tspan4179">A</tspan> Les accepter automatiquement, car ChatGPT</tspan><tspan
            y="228.96933"
            x="54.999996"
            sodipodi:role="line"
-           id="tspan5163"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"> </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           id="tspan4">   est programmé pour accéder à la littérature</tspan><tspan
            y="247.71933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
-           id="tspan4574"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-   id="tspan4181">B</tspan> Des articles scientifiques disponibles</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           id="tspan5">   scientifique</tspan><tspan
            y="266.46933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
-           id="tspan891">   uniquement sur abonnement</tspan><tspan
-           id="tspan5117"
+           id="tspan5163"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"> </tspan><tspan
            y="285.21933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"> </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           id="tspan891"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+   id="tspan4181">B</tspan> Vérifier la validité des références en consultant</tspan><tspan
            y="303.96933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
-           id="tspan4617"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
-   id="tspan4183">C</tspan> Des sites web</tspan><tspan
-           id="tspan5125"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           id="tspan6">   les publications originales</tspan><tspan
+           id="tspan5117"
            y="322.71933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"> </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"> </tspan><tspan
            y="341.46933"
            x="54.999996"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           id="tspan4617"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+   id="tspan4183">C</tspan> Ignorer les références bibliographiques,</tspan><tspan
+           y="360.21933"
+           x="54.999996"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"
+           id="tspan7">   car elles sont potentiellement erronées</tspan><tspan
+           id="tspan5125"
+           y="378.96933"
+           x="54.999996"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium';fill:#1f1c17;fill-opacity:1"> </tspan><tspan
+           y="397.71933"
+           x="54.999996"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
            id="tspan4597">D <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
-   id="tspan911">D'autres travaux d'étudiantes ou d'étudiants</tspan></tspan></text>
+   id="tspan911">Utiliser uniquement les références qui</tspan></tspan><tspan
+           y="416.46933"
+           x="54.999996"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+           id="tspan8"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
+             id="tspan9">   semblent conformes à tes connaissances</tspan></tspan><tspan
+           y="435.21933"
+           x="54.999996"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#1f1c17;fill-opacity:1"
+           id="tspan10"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'"
+             id="tspan11">   actuelles</tspan></tspan></text>
     </g>
   </g>
 </svg>
